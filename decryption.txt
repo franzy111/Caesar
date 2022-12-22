@@ -1,0 +1,12 @@
+In general senior developers are wise and junior developers are clever but haven’t made the mistakes yet to be wise.
+ The difference between junior developers and senior developers is experience, knowledge, and skill.
+
+Experience is the difference. Once developers make a mistake,
+they (hopefully) avoid it by not making the same mistake in the future.
+This gives them the opportunity to make new mistakes and over time, developers know how to avoid more mistakes.
+
+Mistakes in software development can be hard to see coming because the consequences and pain are far into the future.
+Simple mistakes give quick feedback, you find it and fix it fast.
+
+Trickier mistakes are something like hard coding a value and there doesn’t seem any downside initially.
+Later, you need to do a complete release to change the value and you can pay for this decision many times.
